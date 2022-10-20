@@ -8,7 +8,7 @@ Projeyi yaparken ASP.Net Core 5.0, Entity Framework Core ve MS Sql Server kullan
 ## Database diagram of the project
 
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/Database%20Diagram.png?token=GHSAT0AAAAAABZOV5XU34H5SHKD6YELPSXCY2RO3DQ)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/Database%20Diagram.png?token=GHSAT0AAAAAABZOV5XUWB4YMDQ5CKSGESOUY2RRBZQ)
 
   
 ## Projenin İşleyiş Süreci
