@@ -5,7 +5,7 @@ Bu projeyi DGPays'te altı haftalık backend stajımın sonunda bitirme projesi 
 Projeyi yaparken ASP.Net Core 5.0, Entity Framework Core ve MS Sql Server kullandım.
 
 
-## Database diagram of the project
+## Projenin Database Şeması
 
 
 ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/Database%20Diagram.png?token=GHSAT0AAAAAABZOV5XUWB4YMDQ5CKSGESOUY2RRBZQ)
