@@ -2,7 +2,7 @@
 # Company API
 
 Bu projeyi DGPays'te altı haftalık backend stajımın sonunda bitirme projesi olarak Ağustos 2022'de yaptım.
-Projeyi yaparken ASP.Net Core 5.0, Entity Framework Core ve MS Sql Server kullandım.
+Projeyi yaparken ASP.Net Core 5.0, Entity Framework Core, MS Sql Server, Postman, JWT ve Middleware kullandım.
 
 
 ## Database Şeması
