@@ -39,7 +39,7 @@ Projeyi yaparken ASP.Net Core 5.0, Entity Framework Core, MS Sql Server, Postman
 * API'ye custom exception middleware ekledim. Oluşan hataların kodlarına göre postmanda output olarak hatanın türü, hata mesajı ve kodu gözüküyor.
 
 * Validation için RegExleri kullandım. Yanlış türde veri girilirse hata mesajı döndürülüyor.
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/ss5.png?token=GHSAT0AAAAAABZOV5XVRBM5QXZHAAJWBFICY2RQ7IA)
+
 
 
 
