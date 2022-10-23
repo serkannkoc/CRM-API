@@ -24,7 +24,8 @@ Projeyi yaparken ASP.Net Core 5.0, Entity Framework Core, MS Sql Server, Postman
 * API'deki endpointlerden preRegister, register ve login olanlar public olarak açık. 
   Diğerlerinde erişim engeli var. Kullanıcının erişim sağlaması için login endpointine
   email ve şifresini girmesi gerekiyor. Girilen veriler sistemdeki verilerle eşleşiyorsa
-  JWT oluşturuluyor. Kısıtlı endpoinlterde authorization için Postman'da Bearer Token olarak girilmesi gerekiyor.
+  JWT oluşturuluyor. Kısıtlı endpoinlterde authorization için Postman'da Bearer Token olarak girilmesi gerekiyor.  
+  
   ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/ss2.png?token=GHSAT0AAAAAABZOV5XUVPS5LEDJJDFNRRPQY2RQL3A)
   ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/ss3.png?token=GHSAT0AAAAAABZOV5XVB6EBH2JBW3BKPBK6Y2RQMGA)
 
