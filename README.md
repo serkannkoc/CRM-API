@@ -8,14 +8,14 @@ Projeyi yaparken ASP.Net Core 5.0, Entity Framework Core, MS Sql Server, Postman
 ## Database Şeması
 
 
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/Database%20Diagram.png?token=GHSAT0AAAAAABZOV5XUWB4YMDQ5CKSGESOUY2RRBZQ)
+![Uygulama Ekran Görüntüsü](https://github.com/serkannkoc/Company-API/blob/master/ss/Database%20Diagram.png?raw=true)
 
   
 ## Projenin İşleyiş Süreci
 
 * Kullanıcı sisteme ön kayıt olurken email ve ip adresini endpointle gönderiyor. Bu iki veriyi kullanarak bir adet hash string oluşturuluyor. Oluşturulan hash string kullanıcının girdiği mail adresine NETCore.MailKit paketi kullanılarak gönderiliyor. 
 * Oluşturulan hash stringin 7 günlük süresi var. Kullanıcı sisteme bu süre içinde kayıt olmamışsa ön kayıt verileri soft delete ile siliniyor.  
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/ss1.png?token=GHSAT0AAAAAABZOV5XVDP2PKO5U65ONTFN2Y2RPTKQ)  
+![Uygulama Ekran Görüntüsü](https://github.com/serkannkoc/Company-API/blob/master/ss/ss1.png?raw=true)  
   
  
 
@@ -26,11 +26,11 @@ Projeyi yaparken ASP.Net Core 5.0, Entity Framework Core, MS Sql Server, Postman
   email ve şifresini girmesi gerekiyor. Girilen veriler sistemdeki verilerle eşleşiyorsa
   JWT oluşturuluyor. Kısıtlı endpoinlterde authorization için Postman'da Bearer Token olarak girilmesi gerekiyor.  
   
-  ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/ss2.png?token=GHSAT0AAAAAABZOV5XUVPS5LEDJJDFNRRPQY2RQL3A)
-  ![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/ss3.png?token=GHSAT0AAAAAABZOV5XVB6EBH2JBW3BKPBK6Y2RQMGA)
+  ![Uygulama Ekran Görüntüsü](https://github.com/serkannkoc/Company-API/blob/master/ss/ss2.png?raw=true)
+  ![Uygulama Ekran Görüntüsü](https://github.com/serkannkoc/Company-API/blob/master/ss/ss3.png?raw=true)
 
 * API'deki endpointler aşağıdaki ekran görüntüsünde vardır.
-![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/serkannkoc/Company-API/master/ss4.png?token=GHSAT0AAAAAABZOV5XUSAHEMYSPV375KVVOY2RQRYA)
+![Uygulama Ekran Görüntüsü](https://github.com/serkannkoc/Company-API/blob/master/ss/ss4.png?raw=true)
 
 * Id girilmesi gereken endpointlerde girilen Id ile JWT deki id eşleşiyorsa kullanıcı o endpointi kullanabiliyor. 
 
